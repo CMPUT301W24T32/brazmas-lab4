@@ -1,2 +1,6 @@
-package com.example.brazmas_lab4;public class Shape {
+package com.example.brazmas_lab4;
+
+public abstract class Shape {
+    int X;
+    int Y;
 }
